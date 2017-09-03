@@ -269,7 +269,10 @@ a:focus {
     overflow: auto;
 }
 
-.tm-icon-text-box-title { margin-bottom: 1.4rem; }
+.tm-icon-text-box-title {
+    text-align: center;
+    margin-bottom: 1.4rem;
+}
 
 .tm-icon-text-box-description {
 	line-height: 1.8;
