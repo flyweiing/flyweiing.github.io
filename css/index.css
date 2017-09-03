@@ -14,6 +14,15 @@ a:focus {
 
 /* 1. Intro 
 --------------------*/
+
+/*头像*/
+.head_content img {
+	border-radius: 50%;
+}
+
+.tm-wrapper-center hr {
+	border: 2px solid #8EB9E4;
+}
 .tm-section-intro {
 	background-image: url(../img/ocean-bg.jpg);
 	background-attachment: fixed;
@@ -63,7 +72,13 @@ a:focus {
 
 .tm-section-intro-text {
 	font-size: 2rem;
-	margin-bottom: 4rem;
+	margin-bottom: 2rem;
+	width: 100%;
+}
+
+.tm-section-intro-memo {
+	font-size: 2rem;
+	margin-top: 2rem;
 	width: 100%;
 }
 
@@ -354,6 +369,11 @@ hr { width: 65%; }
 	.tm-section-intro-text {
 		font-size: 1.5rem;
 		margin-bottom: 2rem;
+	}
+
+	.tm-section-intro-memo {
+		font-size: 1.5rem;
+		margin-top: 2rem;
 	}
 
 	.tm-btn-white-big {
