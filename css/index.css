@@ -265,7 +265,7 @@ a:focus {
 
 .tm-icon-text-box > .fa {
 	color: #81b4eb;
-	margin-bottom: 2rem;
+	margin-bottom: 1rem;
 	width: 100%;
 	text-align: center; /*http://stackoverflow.com/questions/19162889/how-to-center-font-awesome-icons-horizontally*/
 }
@@ -411,7 +411,7 @@ hr { width: 65%; }
 		font-size: 2rem;
 	}
 	.tm-carousel-time {
-		margin-bottom: 1.5rem;
+		margin-bottom: 1rem;
 	}
 }
 
