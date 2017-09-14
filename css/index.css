@@ -118,10 +118,16 @@ a:focus {
 	color: #81b4eb;
 	font-size: 2.1rem;
 	font-weight: 300;
+}
+
+.tm-carousel-time {
+	color: #81b4eb;
 	margin-bottom: 3rem;
 }
 
 .tm-carousel-item-text {
+	display: inline-block;
+	text-align: left;
 	font-size: 1.3rem;
     line-height: 1.6;
     color: #666;
@@ -403,6 +409,8 @@ hr { width: 65%; }
 	}
 	.tm-carousel-item-title {
 		font-size: 2rem;
+	}
+	.tm-carousel-time {
 		margin-bottom: 1.5rem;
 	}
 }
