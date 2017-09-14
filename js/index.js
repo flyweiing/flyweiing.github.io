@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(function() {
 
     /* Smooth Scrolling
      * https://css-tricks.com/snippets/jquery/smooth-scrolling/
