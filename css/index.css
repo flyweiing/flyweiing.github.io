@@ -267,7 +267,7 @@ a:focus {
 	color: #81b4eb;
 	margin-bottom: 1rem;
 	width: 100%;
-	text-align: center; /*http://stackoverflow.com/questions/19162889/how-to-center-font-awesome-icons-horizontally*/
+	text-align: center;
 }
 
 .tm-icon-text-boxes-container {
