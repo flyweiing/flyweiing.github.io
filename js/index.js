@@ -1,3 +1,10 @@
+// 判断页面是否加载完成
+document.onreadystatechange = function() {
+    console.log(document.readystate);
+    if(document.readyState == "complete")
+        $('.loading').fadeOut();
+}        
+
 $(function() {
 
     /* Smooth Scrolling
