@@ -1,6 +1,6 @@
 # flyweiing.github.io
 
-> A Vue.js project
+> my resume
 
 ## Build Setup
 
